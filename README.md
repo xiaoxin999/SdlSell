@@ -1,2 +1,1 @@
-# SdlSell
-vue project for ordering the orderlist in shop
+测试使用
